@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-This is a simple expense tracker app developed with React. It allows users to track their expenses by adding new transactions. The app keeps track of the expenses for the user.
+This is a simple expense tracker app developed with React. It allows users to track their expenses by adding new transactions. The app keeps track of the expenses for the user. Link to the application: https://sjvignesh.github.io/expense-tracker
 
 ## Features
 
